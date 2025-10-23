@@ -2,7 +2,7 @@
 Name project:AudioPlayer
 faculty of computers and Artificial Intelligance_Cairo Unieverstay 
 Under the supervision of :Dr.Mohamed El-Ramly
-# cs213_A2_part1_S25_20242293_20242277_20243017_20242337
+# cs213_A2_Task3part1_S25_20242293_20242277_20243017_20242337
 # CS213 - Assignment 2 - Audio Player (Part 1)
 
 ## Group Information
