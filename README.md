@@ -32,12 +32,4 @@ We have successfully implemented the following features:
   will be implemented in later submissions.
 - Only `.cpp` and `.h` files are included in this repository  
   as required in Part 1 instructions.
-
-## Screenshots (optional)
-[Add a screenshot here if needed]
-
----
-
-**Submitted by**  
-CS213 — Cairo University  
-Fall 2025/2026
+  
